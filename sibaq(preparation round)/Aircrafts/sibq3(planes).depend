@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1715193899 source:c:\users\mazha\onedrive\desktop\git repos\c++_projects\sibq3(planes)\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+	<cmath>
+

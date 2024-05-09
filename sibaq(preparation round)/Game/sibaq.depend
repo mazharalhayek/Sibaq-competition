@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1715120927 source:c:\users\mazha\onedrive\desktop\git repos\c++_projects\sibaq\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+
